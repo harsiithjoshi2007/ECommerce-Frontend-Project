@@ -1,6 +1,6 @@
 # E-Commerce-Portal
 
-**A simple front-end E-Commerce Portal** built with HTML, CSS, and JavaScript.  
+**A simple front-end E-Commerce Portal** built with HTML, CSS, JavaScript.  
 Features: product listing, register/login (demo), wishlist, orders, reviews, and contact form.
 
 ## Tech
